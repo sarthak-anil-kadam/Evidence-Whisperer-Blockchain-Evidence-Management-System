@@ -259,7 +259,7 @@ B.Tech CSE student at Pimpri Chinchwad University, Pune · Python Full-Stack Dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarthak--anil--kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-anil-kadam/)
 [![GitHub](https://img.shields.io/badge/GitHub-sarthak--anil--kadam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthak-anil-kadam)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sarthak__kadam4141-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarthak-anil-kadam/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sarthak--anil--kadam-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sarthak-anil-kadam/)
 
 ⭐ If you like this project, please star the repository.
 
