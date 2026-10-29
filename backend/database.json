@@ -1,0 +1,826 @@
+{
+  "users": [
+    {
+      "id": "wqdwqd",
+      "name": "wads",
+      "pass": "wqdq",
+      "station": "wqdwqw",
+      "photo": "http://127.0.0.1:5001/uploads/1768647174043-803968557.jpg",
+      "signature": ""
+    },
+    {
+      "id": "123",
+      "name": "sarthak",
+      "pass": "123",
+      "station": "Adgaoin Police Station",
+      "photo": "http://127.0.0.1:5001/uploads/1768647205078-289828045.jpeg",
+      "signature": ""
+    },
+    {
+      "id": "1234",
+      "name": "Sarthak Anil Kadam",
+      "pass": "1234",
+      "station": "Adgaon Police Station, Nashik",
+      "photo": "http://127.0.0.1:5001/uploads/1768741260414-116655633.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1769236682854-signature.png",
+      "phone": "9356485330",
+      "email": "Kadamsarthak4141@gmail.com"
+    },
+    {
+      "id": "12345",
+      "name": "12345",
+      "pass": "12345",
+      "station": "add",
+      "photo": "http://127.0.0.1:5001/uploads/1768764998488-profile-update.jpg",
+      "signature": "http://127.0.0.1:5001/uploads/1768743450234-515473916.png",
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "3030",
+      "name": "gaurav",
+      "pass": "3030",
+      "station": "add",
+      "photo": "http://127.0.0.1:5001/uploads/1768764029630-baravi.jpg",
+      "signature": "http://127.0.0.1:5001/uploads/1768764029636-Screenshot 2026-01-18 at 6.49.37â¯PM.png"
+    },
+    {
+      "id": "ADMIN@",
+      "name": "System Chief",
+      "pass": "Kadam@kkwp1",
+      "photo": "https://via.placeholder.com/150/FFD700/000000?text=ADMIN",
+      "signature": "",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "station": "HEADQUARTERS",
+      "email": "chief@forensics.gov"
+    },
+    {
+      "id": "4141",
+      "name": "Sarthak Anil Kadam",
+      "pass": "4141",
+      "station": "Adgaon Police Station, Nashik",
+      "photo": "http://127.0.0.1:5001/uploads/1770104719118-WhatsApp Image 2025-03-08 at 19.16.53.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1770104719128-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE",
+      "phone": "9356485330",
+      "email": "kadamsarthak4141@gmail.com"
+    },
+    {
+      "id": "777",
+      "name": "katale",
+      "pass": "777",
+      "station": "adgaon",
+      "photo": "http://127.0.0.1:5001/uploads/1770260576559-kitten.png",
+      "signature": "http://127.0.0.1:5001/uploads/1770260576579-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE",
+      "phone": "982190738217",
+      "email": "Katalebhadva@gmail.com"
+    },
+    {
+      "id": "333",
+      "name": "dgdgdgbd",
+      "pass": "333",
+      "station": "adgaon",
+      "photo": "http://127.0.0.1:5001/uploads/1770283668450-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1770283668452-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "0000",
+      "name": "Tejas Wani",
+      "pass": "0000",
+      "station": "Biloni ",
+      "photo": "http://127.0.0.1:5001/uploads/1770728415541-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1770728415555-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE",
+      "phone": "9w36782367826",
+      "email": "kjaghfkjefg@gmail.com"
+    },
+    {
+      "id": "7588",
+      "name": "Anil Kadam",
+      "pass": "7588",
+      "station": "Vaijapur Police station",
+      "photo": "http://127.0.0.1:5001/uploads/1770744448383-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1770744448398-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "1122",
+      "name": "yashvi kholiya",
+      "pass": "1122",
+      "station": "Adgon Police station",
+      "photo": "http://127.0.0.1:5001/uploads/1771062410694-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1771062410717-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "S4545",
+      "name": "Sarthak Ahirrao",
+      "pass": "740929",
+      "station": "asjghdfvcxjgewhdcvxj",
+      "email": "kadamsarthak4141@gmail.com",
+      "photo": "http://127.0.0.1:5001/uploads/1772175904370-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1772176089850-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "9988",
+      "name": "Gauresh Suryavanshi",
+      "pass": "758612",
+      "station": "Adgaon Poilice station",
+      "email": "gauresh.r3sys@gmail.com",
+      "photo": "http://127.0.0.1:5001/uploads/1772179970409-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1772179970415-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "778877",
+      "name": "Vikrant Husale",
+      "pass": "970360",
+      "station": "Adgaon Police Station",
+      "email": "kadamsarthak4141@gmail.com",
+      "photo": "http://127.0.0.1:5001/uploads/1772706556474-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1772706556481-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "554455",
+      "name": "Sachin Patil",
+      "pass": "863145",
+      "station": "Adgaon POlice station",
+      "email": "kadamsarthak4141@gmail.com",
+      "photo": "http://127.0.0.1:5001/uploads/1772778517528-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1772778517534-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "LE-8842",
+      "name": "Officer Miller",
+      "pass": "password",
+      "email": "miller@forensics.gov",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "signature": "",
+      "role": "OFFICER",
+      "status": "ACTIVE",
+      "station": "Cyber Command"
+    },
+    {
+      "id": "306306",
+      "name": "Pathare Mam",
+      "pass": "719196",
+      "station": "Adgaon Police Station, Nashik",
+      "email": "pathareshravasti@gmail.com",
+      "photo": "http://127.0.0.1:5001/uploads/1774678503145-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1774678503156-Screenshot 2026-01-11 at 11.06.04â¯PM.png",
+      "role": "OFFICER",
+      "status": "ACTIVE",
+      "phone": "8758586586565"
+    },
+    {
+      "id": "7654",
+      "name": "Priti mam",
+      "pass": "103661",
+      "station": "Adgaon police Station",
+      "email": "preeti.kudal@ggsf.edu.in",
+      "photo": "http://127.0.0.1:5001/uploads/1776323522665-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1776323522674-ey-fun-roller-coaster.jpg",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "76543",
+      "name": "Priti Mam 2",
+      "pass": "368016",
+      "station": "Adagon Police Station",
+      "email": "preeti.kudal@ggsf.edu.in",
+      "photo": "http://127.0.0.1:5001/uploads/1776323750030-1768647205078-289828045.jpeg",
+      "signature": "http://127.0.0.1:5001/uploads/1776323750037-WhatsApp Image 2026-02-27 at 20.15.06.jpeg",
+      "role": "OFFICER",
+      "status": "ACTIVE"
+    }
+  ],
+  "cases": [
+    {
+      "id": "CASE-1768647223531",
+      "title": "Dwarka",
+      "status": "OPEN",
+      "date": "1/17/2026",
+      "officerId": "123"
+    },
+    {
+      "id": "CASE-2025-9602",
+      "title": "Shootout At Dwarka",
+      "status": "OPEN",
+      "date": "1/18/2026",
+      "officerId": "333"
+    },
+    {
+      "id": "CASE-2025-4645",
+      "title": "hello",
+      "officerId": "123456",
+      "status": "OPEN",
+      "date": "1/20/2026"
+    },
+    {
+      "id": "CASE-2025-4012",
+      "title": "drugs found ink",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "1/24/2026"
+    },
+    {
+      "id": "CASE-2025-6443",
+      "title": "savandgaon",
+      "officerId": "123456",
+      "status": "OPEN",
+      "date": "2/2/2026"
+    },
+    {
+      "id": "CASE-2025-6864",
+      "title": "Phishing Activity",
+      "officerId": "12345",
+      "status": "OPEN",
+      "date": "2/5/2026"
+    },
+    {
+      "id": "CASE-2025-2347",
+      "title": "biloni booth manipulation",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "2/10/2026"
+    },
+    {
+      "id": "CASE-2025-0297",
+      "title": "Booth ferafari",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "2/10/2026"
+    },
+    {
+      "id": "CASE-2025-6761",
+      "title": "drugs case",
+      "officerId": "999",
+      "status": "OPEN",
+      "date": "2/14/2026"
+    },
+    {
+      "id": "CASE-2025-4529",
+      "title": "xyzzy",
+      "officerId": "999",
+      "status": "OPEN",
+      "date": "2/17/2026"
+    },
+    {
+      "id": "CASE-2025-3227",
+      "title": "yashvis case",
+      "officerId": "12345",
+      "status": "OPEN",
+      "date": "2/20/2026"
+    },
+    {
+      "id": "CASE-2025-4496",
+      "title": "matoshri",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "2/27/2026"
+    },
+    {
+      "id": "CASE-2025-0195",
+      "title": "matoshri123",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "2/27/2026"
+    },
+    {
+      "id": "CASE-2025-4255",
+      "title": "shootout clip",
+      "officerId": "171106",
+      "status": "OPEN",
+      "date": "3/5/2026"
+    },
+    {
+      "id": "CASE-2025-3171",
+      "title": "drugs smelling",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "3/6/2026"
+    },
+    {
+      "id": "CASE-2025-7586",
+      "title": "Shootout at Biloni",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "3/16/2026"
+    },
+    {
+      "id": "CASE-2025-4317",
+      "title": "corruption case",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "3/18/2026"
+    },
+    {
+      "id": "CASE-2025-5706",
+      "title": "sanjavani",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "3/18/2026"
+    },
+    {
+      "id": "CASE-2025-5504",
+      "title": "pathare mam case 1",
+      "officerId": "1234",
+      "status": "OPEN",
+      "date": "3/28/2026"
+    },
+    {
+      "id": "CASE-2025-6718",
+      "title": "yashvis c1",
+      "officerId": "12345",
+      "status": "OPEN",
+      "date": "4/16/2026"
+    }
+  ],
+  "evidenceMeta": [
+    {
+      "id": "EV-2153",
+      "caseId": "CASE-1768647223531",
+      "desc": "badkjb",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768647240894-144327716.mp4",
+      "officerId": "123",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2025-07-27 at 22.44.36.mp4"
+    },
+    {
+      "id": "EV-1517",
+      "caseId": "CASE-2025-9602",
+      "desc": "Actual Shootout Footage at Dwarka Circle",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768741361013-30758197.mp4",
+      "officerId": "333",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2025-07-27 at 22.44.36.mp4",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-9787",
+      "caseId": "CASE-2025-9602",
+      "desc": "criminal image",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768741396525-210351801.pdf",
+      "officerId": "333",
+      "type": "Image",
+      "fileName": "photo.pdf",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-7560",
+      "caseId": "CASE-2025-9602",
+      "desc": "new",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768741569303-542982307.jpg",
+      "officerId": "333",
+      "type": "Image",
+      "fileName": "baravi.jpg",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-4591",
+      "caseId": "CASE-2025-9602",
+      "desc": "123",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768742317852-508422189.jpg",
+      "officerId": "333",
+      "type": "Video",
+      "fileName": "ey-fun-roller-coaster.jpg",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-8748",
+      "caseId": "CASE-2025-9602",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768742990464-461987372.mp4",
+      "officerId": "333",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2025-07-27 at 22.44.36.mp4",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-4249",
+      "caseId": "CASE-2025-9602",
+      "desc": "1234",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768743693187-130972076.jpeg",
+      "officerId": "333",
+      "type": "Video",
+      "fileName": "WhatsApp Image 2025-10-27 at 13.43.31.jpeg",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-5568",
+      "caseId": "CASE-2025-9602",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768745260835-912837605.pdf",
+      "officerId": "333",
+      "type": "Document",
+      "fileName": "316325.pdf",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-4987",
+      "caseId": "CASE-2025-9602",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768745968010-316325.docx",
+      "officerId": "333",
+      "type": "Document",
+      "fileName": "316325.docx",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-523",
+      "caseId": "CASE-2025-9602",
+      "desc": "yhefguys",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1768909722754-logo.png",
+      "officerId": "333",
+      "type": "Image",
+      "fileName": "logo.png",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-4763",
+      "caseId": "CASE-2025-4012",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1769229611674-Screenshot 2026-01-20 at 11.40.50â¯AM.png",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "Screenshot 2026-01-20 at 11.40.50â¯AM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-2881",
+      "caseId": "CASE-2025-6443",
+      "desc": "kill",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770025284833-WhatsApp Video 2025-07-27 at 22.44.36.mp4",
+      "officerId": "123456",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2025-07-27 at 22.44.36.mp4"
+    },
+    {
+      "id": "EV-2311",
+      "caseId": "CASE-2025-4012",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770210076001-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-4298",
+      "caseId": "CASE-2025-4012",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770210134530-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-2881",
+      "caseId": "CASE-2025-4012",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770211562065-IMG_1083.JPG",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "IMG_1083.JPG",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-2601",
+      "caseId": "CASE-2025-4012",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770211580376-1768745968010-316325.docx",
+      "officerId": "1234",
+      "type": "Document",
+      "fileName": "1768745968010-316325.docx",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-7796",
+      "caseId": "CASE-2025-6864",
+      "desc": "wegfeukfgfhb",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770260707685-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "12345",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "12345"
+    },
+    {
+      "id": "EV-3122",
+      "caseId": "CASE-2025-9602",
+      "desc": "efcf",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770283836126-IMG_1083.JPG",
+      "officerId": "333",
+      "type": "Image",
+      "fileName": "IMG_1083.JPG",
+      "custodian": "333"
+    },
+    {
+      "id": "EV-6374",
+      "caseId": "CASE-2025-2347",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770728653933-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-2315",
+      "caseId": "CASE-2025-2347",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770728672685-Screenshot 2026-02-03 at 2.34.53â¯PM.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Screenshot 2026-02-03 at 2.34.53â¯PM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-6398",
+      "caseId": "CASE-2025-2347",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770728685904-1768745968010-316325.docx",
+      "officerId": "1234",
+      "type": "Document",
+      "fileName": "1768745968010-316325.docx",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-2572",
+      "caseId": "CASE-2025-0297",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1770744645176-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-3426",
+      "caseId": "CASE-2025-6761",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1771062549603-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "999",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "999"
+    },
+    {
+      "id": "EV-6434",
+      "caseId": "CASE-2025-4529",
+      "desc": "fdgstestt",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1771316490578-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "999",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "999"
+    },
+    {
+      "id": "EV-2124",
+      "caseId": "CASE-2025-6761",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1771316818344-1768647205078-289828045.jpeg",
+      "officerId": "999",
+      "type": "Image",
+      "fileName": "1768647205078-289828045.jpeg",
+      "custodian": "999"
+    },
+    {
+      "id": "EV-8270",
+      "caseId": "CASE-2025-3227",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1771572449776-à¤à¤¤à¥à¤°à¤ªà¤¤à¥ à¤¶à¤¿à¤µà¤¾à¤à¥ à¤®à¤¹à¤¾à¤°à¤¾à¤à¤¾à¤à¤à¥à¤¯à¤¾ à¤à¤¯à¤à¤¤à¥ à¤¨à¤¿à¤®à¤¿à¤¤à¥à¤¤ à¤¸à¤°à¥à¤µà¤¾à¤à¤¨à¤¾ à¤¶à¤¿à¤µà¤®à¤¯ à¤¶à¥à¤­à¥à¤à¥à¤à¤¾.png",
+      "officerId": "12345",
+      "type": "Image",
+      "fileName": "à¤à¤¤à¥à¤°à¤ªà¤¤à¥ à¤¶à¤¿à¤µà¤¾à¤à¥ à¤®à¤¹à¤¾à¤°à¤¾à¤à¤¾à¤à¤à¥à¤¯à¤¾ à¤à¤¯à¤à¤¤à¥ à¤¨à¤¿à¤®à¤¿à¤¤à¥à¤¤ à¤¸à¤°à¥à¤µà¤¾à¤à¤¨à¤¾ à¤¶à¤¿à¤µà¤®à¤¯ à¤¶à¥à¤­à¥à¤à¥à¤à¤¾.png",
+      "custodian": "12345"
+    },
+    {
+      "id": "EV-7008",
+      "caseId": "CASE-2025-3227",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1771572481856-FD34A43A-DCCD-408D-90A7-E9BB4F6F6EC8_cleanup.jpeg",
+      "officerId": "12345",
+      "type": "Document",
+      "fileName": "FD34A43A-DCCD-408D-90A7-E9BB4F6F6EC8_cleanup.jpeg",
+      "custodian": "12345"
+    },
+    {
+      "id": "EV-7751",
+      "caseId": "CASE-2025-4496",
+      "desc": "dsfwev",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772176022415-newres.pdf",
+      "officerId": "1234",
+      "type": "Document",
+      "fileName": "newres.pdf",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-4309",
+      "caseId": "CASE-2025-4496",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772178156007-Customer relationship management.pdf",
+      "officerId": "1234",
+      "type": "Document",
+      "fileName": "Customer relationship management.pdf",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-9984",
+      "caseId": "CASE-2025-0195",
+      "desc": "awdyggjawdhavdb",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772180073126-Screenshot 2026-02-26 at 8.54.00â¯PM.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Screenshot 2026-02-26 at 8.54.00â¯PM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-3135",
+      "caseId": "CASE-2025-4255",
+      "desc": "frfcfcfrcc",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772706705420-Screenshot 2026-03-05 at 11.22.16â¯AM.png",
+      "officerId": "171106",
+      "type": "Image",
+      "fileName": "Screenshot 2026-03-05 at 11.22.16â¯AM.png",
+      "custodian": "171106"
+    },
+    {
+      "id": "EV-6175",
+      "caseId": "CASE-2025-4255",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772706734398-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "171106",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "171106"
+    },
+    {
+      "id": "EV-8247",
+      "caseId": "CASE-2025-3171",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772778621091-Screenshot 2026-03-05 at 1.02.19â¯PM.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Screenshot 2026-03-05 at 1.02.19â¯PM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-9497",
+      "caseId": "CASE-2025-3171",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1772778646501-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-9724",
+      "caseId": "CASE-2025-4255",
+      "desc": "rgewsgwersgrswggegwrgrwg",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773206359806-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "171106",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "171106"
+    },
+    {
+      "id": "EV-4396",
+      "caseId": "",
+      "desc": "wgryrsgygerwtg",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773206406492-baravi.jpg",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "baravi.jpg",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-5239",
+      "caseId": "CASE-2025-4255",
+      "desc": "eqwrqfq3",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773206444182-IMG_1083.JPG",
+      "officerId": "171106",
+      "type": "Image",
+      "fileName": "IMG_1083.JPG",
+      "custodian": "171106"
+    },
+    {
+      "id": "EV-7281",
+      "caseId": "CASE-2025-7586",
+      "desc": "fygei2uyfgeufewfbrrnrnfff",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773679226509-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-8617",
+      "caseId": "CASE-2025-7586",
+      "desc": "dhjebvsdxiheqvckvbekjbjk",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773679261196-Gemini_Generated_Image_tjr9yutjr9yutjr9.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Gemini_Generated_Image_tjr9yutjr9yutjr9.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-1982",
+      "caseId": "CASE-2025-7586",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773679459939-Screenshot 2026-03-15 at 7.02.30â¯PM.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Screenshot 2026-03-15 at 7.02.30â¯PM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-4521",
+      "caseId": "CASE-2025-4317",
+      "desc": "fehuihuhuhiuff",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773817324161-Screenshot 2026-03-15 at 7.02.30â¯PM.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Screenshot 2026-03-15 at 7.02.30â¯PM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-713",
+      "caseId": "CASE-2025-4317",
+      "desc": "rgr4t",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773817373154-On the Rise Bakery Sales and Locations.xlsx",
+      "officerId": "1234",
+      "type": "Document",
+      "fileName": "On the Rise Bakery Sales and Locations.xlsx",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-9251",
+      "caseId": "CASE-2025-5706",
+      "desc": "",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1773821799398-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "1234",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-8086",
+      "caseId": "CASE-2025-5504",
+      "desc": "tdhdfghg",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1774678793202-Screenshot 2026-03-28 at 10.14.50â¯AM.png",
+      "officerId": "1234",
+      "type": "Image",
+      "fileName": "Screenshot 2026-03-28 at 10.14.50â¯AM.png",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-4997",
+      "caseId": "CASE-2025-5504",
+      "desc": "hfjgdfhgf",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1774678845126-sample.json",
+      "officerId": "1234",
+      "type": "Document",
+      "fileName": "sample.json",
+      "custodian": "1234"
+    },
+    {
+      "id": "EV-6377",
+      "caseId": "CASE-2025-6718",
+      "desc": "hgxhendgxedjg",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1776323852099-WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "officerId": "12345",
+      "type": "Video",
+      "fileName": "WhatsApp Video 2024-12-10 at 23.13.31.mp4",
+      "custodian": "12345"
+    },
+    {
+      "id": "EV-2518",
+      "caseId": "CASE-2025-6718",
+      "desc": "edcr4fcrtfc",
+      "fileUrl": "http://127.0.0.1:5001/uploads/1776323896830-WhatsApp Image 2026-02-27 at 20.15.06.jpeg",
+      "officerId": "12345",
+      "type": "Image",
+      "fileName": "WhatsApp Image 2026-02-27 at 20.15.06.jpeg",
+      "custodian": "12345"
+    }
+  ]
+}
